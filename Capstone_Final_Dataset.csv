@@ -1,0 +1,88 @@
+source_vm,artefact_type,file_name,file_path,file_size,created_time,modified_time,accessed_time,deleted_flag,hidden_flag,extension_mismatch,timestamp_anomaly,suspicious_tool_trace,encryption_indicator,notes,label
+clean,office_document,TM02835233[[fn=Text Sidebar (Annual Report Red and Black design)]].docx,0,0,0,0,0,0,0,0,0,0,0,Normal office documents clean baseline,0
+clean,office_document,All work and no play make Jack a dull boy.docx,0,0,0,0,0,0,0,0,0,0,0,Normal office documents clean baseline,0
+clean,office_document,mmw_recorded_2025_26_quarter_1.xlsx,0,0,0,0,0,0,0,0,0,0,0,Normal office documents clean baseline,0
+clean,office_document,Wizard_frog.docx,0,0,0,0,0,0,0,0,0,0,0,Normal office documents clean baseline,0
+clean,deleted_file,SyncEngine-2026-04-14.1049.8492.1.odl,0,0,0,0,0,1,0,0,0,0,0,Normal deleted/cashe artefact in clean baseline,0
+clean,deleted_file,SyncEngine-2026-04-14.1049.8492.2.odl,0,0,0,0,0,1,0,0,0,0,0,Normal deleted/cashe artefact in clean baseline,0
+clean,deleted_file,9381d1eda90e9d9a7244894a11dbeaceaca12311.tbres,0,0,0,0,0,1,0,0,0,0,0,Normal deleted/cashe artefact in clean baseline,0
+clean,deleted_file,SyncEngine-2026-04-14.1042.7156.2.odl,0,0,0,0,0,1,0,0,0,0,0,Normal deleted/cashe artefact in clean baseline,0
+clean,deleted_file,{3DA71D5A-20CC-432F-A115-DFE92379E91F}.3.ver0x00000000000000a2.db,0,0,0,0,0,1,0,0,0,0,0,Normal deleted/cashe artefact in clean baseline,0
+clean,deleted_file,AppCache134203970323092404.txt,0,0,0,0,0,1,0,0,0,0,0,Normal deleted/cashe artefact in clean baseline,0
+clean,deleted_file,AppCache134204684014057325.txt,0,0,0,0,0,1,0,0,0,0,0,Normal deleted/cashe artefact in clean baseline,0
+clean,deleted_file,AppCache134206368719968452.txt,0,0,0,0,0,1,0,0,0,0,0,Normal deleted/cashe artefact in clean baseline,0
+clean,deleted_file,content.phf,0,0,0,0,0,1,0,0,0,0,0,Normal deleted/cashe artefact in clean baseline,0
+clean,deleted_file,content.bin,0,0,0,0,0,1,0,0,0,0,0,Normal deleted/cashe artefact in clean baseline,0
+clean,image_file,Screenshot 2026-03-19 145436.png,0,0,0,0,0,0,0,0,0,0,0,Normal images clean baseline,0
+clean,image_file,$R1COR04.png,0,0,0,0,0,0,0,0,0,0,0,Normal images clean baseline,0
+clean,image_file,Purple frog.png,0,0,0,0,0,0,0,0,0,0,0,Normal images clean baseline,0
+clean,image_file,Green frog.png,0,0,0,0,0,0,0,0,0,0,0,Normal images clean baseline,0
+clean,image_file,Yell-Black frog.png,0,0,0,0,0,0,0,0,0,0,0,Normal images clean baseline,0
+clean,image_file,Frog art.png,0,0,0,0,0,0,0,0,0,0,0,Normal images clean baseline,0
+clean,image_file,Orange Frog.png,0,0,0,0,0,0,0,0,0,0,0,Normal images clean baseline,0
+clean,image_file,Glass frog.png,0,0,0,0,0,0,0,0,0,0,0,Normal images clean baseline,0
+clean,image_file,Kermit the Frog.png,0,0,0,0,0,0,0,0,0,0,0,Normal images clean baseline,0
+clean,image_file,Meme frog.png,0,0,0,0,0,0,0,0,0,0,0,Normal images clean baseline,0
+clean,image_file,Drama Frog.png,0,0,0,0,0,0,0,0,0,0,0,Normal images clean baseline,0
+clean,image_file,Save the frogs.png,0,0,0,0,0,0,0,0,0,0,0,Normal images clean baseline,0
+clean,image_file,Screen grab 1 of CLEAN_BASELINE setup.png,0,0,0,0,0,0,0,0,0,0,0,Normal images clean baseline,0
+clean,image_file,illustration[1].jpg,0,0,0,0,0,0,0,0,0,0,0,Normal images clean baseline,0
+clean,html_file,Init[1].htm,0,0,0,0,0,0,0,0,0,0,0,Normal browser activity clean baseline ,0
+clean,html_file,Animation.html,0,0,0,0,0,0,0,0,0,0,0,Normal browser activity clean baseline ,0
+clean,html_file,TestSharePage.html,0,0,0,0,0,0,0,0,0,0,0,Normal browser activity clean baseline ,0
+clean,html_file,LoadingPage.html,0,0,0,0,0,0,0,0,0,0,0,Normal browser activity clean baseline ,0
+clean,html_file,LoadingPage.html:WofCompressedData,0,0,0,0,0,0,0,0,0,0,0,Normal browser activity clean baseline ,0
+clean,html_file,DimeErrorPage.html,0,0,0,0,0,0,0,0,0,0,0,Normal browser activity clean baseline ,0
+clean,html_file,index_9b8a2612407dbc9eccb904770b14b96b.html,0,0,0,0,0,0,0,0,0,0,0,Normal browser activity clean baseline ,0
+clean,html_file,taskpane_0b5b0206161c03aac2e5bd2ab24aa057.html,0,0,0,0,0,0,0,0,0,0,0,Normal browser activity clean baseline ,0
+clean,html_file,index_faac4e0cbc1f60599712042923eb40c1.html,0,0,0,0,0,0,0,0,0,0,0,Normal browser activity clean baseline ,0
+clean,html_file,index2_e722072f7f31d9dcb1da4123fd4d7478.html,0,0,0,0,0,0,0,0,0,0,0,Normal browser activity clean baseline ,0
+clean,html_file,index_61e4175d5e52b897056ec376b0d4b999.html,0,0,0,0,0,0,0,0,0,0,0,Normal browser activity clean baseline ,0
+clean,html_file,login_7f272cf1a9bd218f6a18fa0fd5570f7b.html,0,0,0,0,0,0,0,0,0,0,0,Normal browser activity clean baseline ,0
+clean,html_file,acquisitionnotsupported_4334a4db3e2d2e702cb2c6b3003ed31f30f6766d90237c13b1988018de12a844.html,0,0,0,0,0,0,0,0,0,0,0,Normal browser activity clean baseline ,0
+clean,html_file,index.html,0,0,0,0,0,0,0,0,0,0,0,Normal browser activity clean baseline ,0
+clean,pdf_document,Terms and Conditions of Admission and Enrolment.pdf,0,0,0,0,0,0,0,0,0,0,0,Normal PDF,0
+clean,pdf_document,050-Frog_Story_all_as_pdf_image_300.pdf,0,0,0,0,0,0,0,0,0,0,0,Normal PDF,0
+clean,pdf_document,050-Frog_Story_all_as_pdf_image_300.pdf:Zone.Identifier,0,0,0,0,0,0,0,0,0,0,0,Normal PDF,0
+clean,pdf_document,Wk_2._Story_-Oi_Frog.pdf,0,0,0,0,0,0,0,0,0,0,0,Normal PDF,0
+clean,pdf_document,Wk_2._Story_-Oi_Frog.pdf:Zone.Identifier,0,0,0,0,0,0,0,0,0,0,0,Normal PDF,0
+clean,exe_file,MpSigStub.exe,0,0,0,0,0,0,0,0,0,0,0,Normal exe clean baseline ,0
+clean,exe_file,NisSrv.exe,0,0,0,0,0,0,0,0,0,0,0,Normal exe clean baseline ,0
+clean,exe_file,MpDefenderCoreService.exe,0,0,0,0,0,0,0,0,0,0,0,Normal exe clean baseline ,0
+clean,exe_file,MsMpEng.exe,0,0,0,0,0,0,0,0,0,0,0,Normal exe clean baseline ,0
+clean,exe_file,MpCmdRun.exe,0,0,0,0,0,0,0,0,0,0,0,Normal exe clean baseline ,0
+clean,exe_file,ARPPRODUCTICON.exe,0,0,0,0,0,0,0,0,0,0,0,Normal exe clean baseline ,0
+clean,exe_file,MpDlpService.exe,0,0,0,0,0,0,0,0,0,0,0,Normal exe clean baseline ,0
+clean,exe_file,MpDlpCmd.exe,0,0,0,0,0,0,0,0,0,0,0,Normal exe clean baseline ,0
+dirty,deleted_file,SyncEngine-2026-04-11.1645.9576.2.odl,0,0,0,0,0,1,0,0,1,0,0,Application log recovered from deleted space,1
+dirty,deleted_file,AppCache134203995199984207.txt,0,0,0,0,0,1,0,0,1,0,0,Deleted application cache artefact ,1
+dirty,deleted_file,AppCache134203918891629424.txt,0,0,0,0,0,1,0,0,1,0,0,Deleted application cache artefact ,1
+dirty,deleted_file,{37239896-B905-4D30-88C9-B63C603DA134}.3.ver0x0000000000000001.db,0,0,0,0,0,1,0,0,1,0,0,Deleted browser or database artefact indicating recent activity,1
+dirty,deleted_file,000003.log,0,0,0,0,0,1,0,0,1,0,0,Deleted browser or database artefact indicating recent activity,1
+dirty,deleted_file,000005.ldb,0,0,0,0,0,1,0,0,1,0,0,Deleted browser or database artefact indicating recent activity,1
+dirty,deleted_file,000006.log,0,0,0,0,0,1,0,0,1,0,0,Deleted browser or database artefact indicating recent activity,1
+dirty,deleted_file,000008.ldb,0,0,0,0,0,1,0,0,1,0,0,Deleted browser or database artefact indicating recent activity,1
+dirty,deleted_file,00030000000307334279FC92,0,0,0,0,0,1,1,0,1,0,0,Randomised deleted artfact with clustered timestamp pattern,1
+dirty,deleted_file,00030000000307F10E9E303D,0,0,0,0,0,1,1,0,1,0,0,Randomised deleted artfact with clustered timestamp pattern,1
+dirty,deleted_file,00030000000307F3623AE0D0,0,0,0,0,0,1,1,0,1,0,0,Randomised deleted artfact with clustered timestamp pattern,1
+dirty,deleted_file,00030000000307F76243A231,0,0,0,0,0,1,1,0,1,0,0,Randomised deleted artfact with clustered timestamp pattern,1
+dirty,deleted_file,00030000000307FB0C6666BE,0,0,0,0,0,1,1,0,1,0,0,Randomised deleted artfact with clustered timestamp pattern,1
+dirty,deleted_file,00030000000307FC3C7E6134,0,0,0,0,0,1,1,0,1,0,0,Randomised deleted artfact with clustered timestamp pattern,1
+dirty,deleted_file,00030000000307FE76B9487C,0,0,0,0,0,1,1,0,1,0,0,Randomised deleted artfact with clustered timestamp pattern,1
+dirty,deleted_file,officeclicktorun.exe.db-shm,0,0,0,0,0,1,0,0,1,0,0,Deleted office telemetery database shared-memory artefact,1
+dirty,deleted_file,officeclicktorun.exe.db-wal,0,0,0,0,0,1,0,0,1,0,0,Deleted office telemetery database write-ahead log artefact,1
+dirty,exe_file,steghide.exe,0,0,0,0,0,0,0,0,0,1,0,Steganography tool identified - potential anti-forensic activity,1
+dirty,exe_file,OneDriveSetup.exe,0,0,0,0,0,0,0,0,0,0,0,User-level executable indicating recent application activity,1
+dirty,exe_file,OneDriveUpdaterService.exe,0,0,0,0,0,0,0,0,0,0,0,User-level executable indicating recent application activity,1
+dirty,exe_file,OneDriveStandaloneUpdater.exe,0,0,0,0,0,0,0,0,0,0,0,User-level executable indicating recent application activity,1
+dirty,exe_file,OneDrivePatcher.exe,0,0,0,0,0,0,0,0,0,0,0,User-level executable indicating recent application activity,1
+dirty,exe_file,OneDrive.Sync.Service.exe,0,0,0,0,0,0,0,0,0,0,0,User-level executable indicating recent application activity,1
+dirty,exe_file,OneDriveActionHelper.exe,0,0,0,0,0,0,0,0,0,0,0,User-level executable indicating recent application activity,1
+dirty,exe_file,OneDriveLauncher.exe,0,0,0,0,0,0,0,0,0,0,0,User-level executable indicating recent application activity,1
+dirty,exe_file,OneDriveFileLauncher.exe,0,0,0,0,0,0,0,0,0,0,0,User-level executable indicating recent application activity,1
+dirty,exe_file,OneDrive.App.exe,0,0,0,0,0,0,0,0,0,0,0,User-level executable indicating recent application activity,1
+dirty,archive,exiftool-13.55_64.zip,0,0,0,0,0,0,0,0,0,1,0,Metadata amnipulation tool archive ,1
+dirty,archive,steghide-0.5.1-win32.zip,0,0,0,0,0,0,0,0,0,1,0,Archive containing steganography tool ,1
+dirty,archive,vendor.js.map.gz,0,0,0,0,0,0,0,0,0,0,1,Compressed file indicating possible obfuscation ,1
+dirty,archive,SDelete.zip,0,0,0,0,0,0,0,0,0,1,0,Secure deletion tool archive ,1
+dirty,office_document,Jacks_a_dull_boy.docx,0,0,0,0,0,0,0,0,1,0,0,Timestamp incinsistency identified - potential anti-forensic activity,1
